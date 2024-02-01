@@ -1,0 +1,51 @@
+.card-login {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.espacamento {
+    padding: 50px 0 40px 0;
+    text-align: center;
+}
+
+.registro-login {
+    padding: 30px;
+    text-align: center;
+}
+
+.footer-index {
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+p a {
+    color: black;
+    font-weight: bold;
+
+}
+
+p a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    background: #17A2B8;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: white;
+    font-size: 40px;
+    margin: 0 auto;
+}
